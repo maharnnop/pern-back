@@ -2,10 +2,9 @@
   "development": {
     "username": "postgres",
     "password": "Kwan061040",
-    "database": "tdas_dev",
+    "database": "pern_dev",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
   }
-
 }
